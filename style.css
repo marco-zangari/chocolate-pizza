@@ -1,0 +1,56 @@
+.content {
+  margin-left: 17%;
+  margin-right: 17%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#yellowtail {
+  font-family: 'Yellowtail', cursive;
+  font-size: 30px;
+}
+
+#logo {
+width: 11em;
+}
+
+#logo-pic {
+float: left;
+}
+
+#logo-text-tag {
+font-size: 7px;
+
+}
+
+.links li {
+float: right;
+margin: .5px;
+}
+
+#spacer {
+  margin-left: 8px;
+}
+
+#choco-pizza-pic {
+  width: 100%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#list-bg {
+  height: 205px;
+  background-image: url("img/list-bg.png");
+  background-repeat: no-repeat;
+  background-size: 598px 203px;
+}
+
+#left-ingredients {
+  float: left;
+  width: 40%;
+}
+
+#right-ingredients {
+  width: 40%;
+  float: right;
+}
