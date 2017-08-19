@@ -39,10 +39,13 @@ margin: .5px;
 }
 
 #list-bg {
+  font-family: "Comic Sans MS", cursive, sans-serif;
   height: 205px;
   background-image: url("img/list-bg.png");
   background-repeat: no-repeat;
   background-size: 598px 203px;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 #left-ingredients {
@@ -53,4 +56,17 @@ margin: .5px;
 #right-ingredients {
   width: 40%;
   float: right;
+}
+
+#button {
+  float: right;
+  width: 120px;
+  height: 40px;
+  color: white;
+  background-color: #b87255;
+  border: none;
+}
+
+#bio * {
+  display: inline;
 }
