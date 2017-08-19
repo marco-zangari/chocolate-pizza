@@ -1,0 +1,105 @@
+.content {
+  margin-left: 17%;
+  margin-right: 17%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#yellowtail {
+  font-family: 'Yellowtail', cursive;
+  font-size: 30px;
+}
+
+#logo {
+width: 11em;
+}
+
+#logo-pic {
+float: left;
+}
+
+#logo-text-tag {
+font-size: 7px;
+}
+
+.links li {
+float: right;
+margin: .5px;
+}
+
+#spacer {
+  margin-left: 8px;
+}
+
+.grayBar {
+  height: 5px;
+  background-color: black;
+  background-image: repeating-linear-gradient(45deg, #ccc, #ccc 3px, #dbdbdb .2px, #fff 4px);
+}
+
+#topGrayBar{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.right-title {
+  float: right;
+}
+
+#choco-pizza-pic {
+  width: 100%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#list-bg {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  height: 205px;
+  background-image: url("img/list-bg.png");
+  background-repeat: no-repeat;
+  background-size: 598px 203px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+#left-ingredients {
+  float: left;
+  width: 40%;
+}
+
+#right-ingredients {
+  width: 40%;
+  float: right;
+}
+
+#button {
+  float: right;
+  width: 120px;
+  height: 40px;
+  color: white;
+  background-color: #b87255;
+  border: none;
+}
+
+#bio * {
+  display: inline;
+}
+
+#footer {
+  width: 17em;
+  text-align: center;
+  margin: auto;
+  color: gray;
+  line-height: 1.3;
+}
+
+#logo-foot {
+  margin-left: 20em;
+  margin-bottom: 1em;
+  margin-top: 6em;
+}
